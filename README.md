@@ -1,1 +1,1 @@
-# chiperbyte_payment_Recit
+# chiperbyte_payment_Recipt
